@@ -1,6 +1,6 @@
-The OSS t/s Software
+The OSS text to speech Software
 =======================
-This would be a simple text processing software which translates text to Output speech using python libararies like TextBlob/pySpeech. The sole purpose of this project is to maximize learning while you develop it. Come and join in the development!
+This would be a simple text processing software which translates text to Output speech using python libararies like TextBlob/pySpeech. The sole purpose of this project is to maximize learning while you develop it. Come and join in the development! *In future version we would be using NLP techniques.
 
 Timeline
 --------
